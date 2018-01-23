@@ -1,0 +1,6 @@
+Bissecao
+Corda
+Newton - 1 var
+Newton - 2 var
+Picard Peano - 1 var
+PP - 2 var

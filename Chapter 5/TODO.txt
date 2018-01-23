@@ -1,0 +1,6 @@
+Euler - Simple
+Euler - 2 Order
+Euler - 3 var?
+RK4 - Simple
+RK4 - 2 Order
+RK4 - 3 var?

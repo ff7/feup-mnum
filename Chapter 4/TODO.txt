@@ -1,0 +1,3 @@
+Trapezio
+Simpson
+Cubatura

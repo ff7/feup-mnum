@@ -1,0 +1,4 @@
+Gauss
+External Stability
+Jacobi
+Seidel
